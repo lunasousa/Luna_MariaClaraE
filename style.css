@@ -31,8 +31,19 @@ display: flex;
 
 .segundo-paragrafo{
   padding: 15px;
-}
 
+}
+.quem-somos{
+  padding: 24px 0;
+}
+.imagem{ width :75%;}
+.foto-do-estudante{
+  width :25%;
+}
 .estudante {
     width: 15%;
+}
+
+.imagem-icone{
+  width: 25%;
 }
